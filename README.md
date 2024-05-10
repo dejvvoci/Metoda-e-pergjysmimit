@@ -21,12 +21,12 @@ Ky aplikacion zbaton metoden e pergjysmimit per nje funksion te dhene si input n
       Sintaksa qe duhet te perdoret ne funksion: <br>
         exp(`shprehje`)
 
-![alt text](https://github.com/dejvvoci/Metoda-e-pergjysmimit/blob/main/images/webpage.png)
+![alt text](https://github.com/dejvvoci/Metoda-e-pergjysmimit/blob/main/images/webpage.jpeg)
 
 ### Rast testimi per funksionin: x−sin(x)+x^3−2
 
 
-![alt text](https://github.com/dejvvoci/Metoda-e-pergjysmimit/blob/main/images/testCase1.png)
+![alt text](https://github.com/dejvvoci/Metoda-e-pergjysmimit/blob/main/images/testCase1.jpeg)
 
 Rezultati i zbatimit te metodes se pergjysmimit: <br>
 
