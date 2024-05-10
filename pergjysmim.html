@@ -1,0 +1,43 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Metoda e pergjysmimit</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/9.4.4/math.min.js"></script>
+  </head>
+  <body>
+
+    <main>
+      <h1>Metoda e pergjysmimit</h1>
+      <!-- <div>
+        <h3>Choose action</h3>
+        <div>
+          <button id="insert">Insert new iem</button>
+          <button id="displayAll">Display All items</button>
+          <button id="bestSeller">Display all best seller items</button>
+          <button id="update">Update item</button>    
+        </div>
+      </div> -->
+
+      <div id="webApp">
+        <form class="form">
+        <label for="funksioni">Funksioni:</label>
+        <input type="text" id="funksioni" placeholder="Shkruani funksionin...">
+        <br>
+        <label for="intervali">Intervali:</label>
+        <input type="text" id="intervali" placeholder="Shkruani intervalin (p.sh. 0,3)...">
+        <br>
+        <label for="toleranca">Toleranca:</label>
+        <input type="number" id="toleranca" placeholder="Shkruani tolerancën...">
+        <br>
+        <button id="actionBtn">Zbato metoden e pergjysmimit</button>
+        
+        </form>
+        <div id="output"></div> 
+      </div>
+      </main>
+
+    <script src="logic.js"></script>
+  </body>
+</html>
