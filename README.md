@@ -2,7 +2,7 @@
 Ky aplikacion zbaton metoden e pergjysmimit per nje funksion te dhene si input nga perdoruesi
 
 ## Funksionet qe suportohen jane:
-  1. ln (logaritmi natyror)
+  1. ln (logaritmi natyror) <br>
       Sintaksa qe duhet te perdoret ne funksion:
         ln(`shprehje`)
   2. rrenja katrore
