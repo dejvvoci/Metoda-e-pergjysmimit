@@ -22,3 +22,13 @@ Ky aplikacion zbaton metoden e pergjysmimit per nje funksion te dhene si input n
         exp(`shprehje`)
 
 ![alt text](https://github.com/dejvvoci/Metoda-e-pergjysmimit/blob/main/images/webpage.png)
+
+### Rast testimi per funksionin: x−sin(x)+x^3−2
+
+
+![alt text](https://github.com/dejvvoci/Metoda-e-pergjysmimit/blob/main/images/testCase1.png)
+
+Rezultati i zbatimit te metodes se pergjysmimit: <br>
+
+
+![alt text](https://github.com/dejvvoci/Metoda-e-pergjysmimit/blob/main/images/resultCase1.png)
