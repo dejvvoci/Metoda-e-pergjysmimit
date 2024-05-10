@@ -20,3 +20,5 @@ Ky aplikacion zbaton metoden e pergjysmimit per nje funksion te dhene si input n
   6. e^x <br>
       Sintaksa qe duhet te perdoret ne funksion: <br>
         exp(`shprehje`)
+
+![alt text](https://github.com/dejvvoci/Metoda-e-pergjysmimit/images/webpage.png)
