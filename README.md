@@ -3,20 +3,20 @@ Ky aplikacion zbaton metoden e pergjysmimit per nje funksion te dhene si input n
 
 ## Funksionet qe suportohen jane:
   1. ln (logaritmi natyror) <br>
-      Sintaksa qe duhet te perdoret ne funksion:
+      Sintaksa qe duhet te perdoret ne funksion: <br>
         ln(`shprehje`)
-  2. rrenja katrore
-      Sintaksa qe duhet te perdoret ne funksion:
+  2. rrenja katrore <br>
+      Sintaksa qe duhet te perdoret ne funksion: <br>
         sqrt(`shprehje`)
-  3. kosinus
-      Sintaksa qe duhet te perdoret ne funksion:
+  3. kosinus <br>
+      Sintaksa qe duhet te perdoret ne funksion: <br>
         cos(`shprehje`)
-  4. sinus
-      Sintaksa qe duhet te perdoret ne funksion:
+  4. sinus <br>
+      Sintaksa qe duhet te perdoret ne funksion: <br>
         sin(`shprehje`)
-  5. logaritmi me baze 10
-      Sintaksa qe duhet te perdoret ne funksion:
+  5. logaritmi me baze 10 <br>
+      Sintaksa qe duhet te perdoret ne funksion: <br>
         log10(`shprehje`)
-  6. e^x
-      Sintaksa qe duhet te perdoret ne funksion:
+  6. e^x <br>
+      Sintaksa qe duhet te perdoret ne funksion: <br>
         exp(`shprehje`)
