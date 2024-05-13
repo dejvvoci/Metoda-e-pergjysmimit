@@ -46,15 +46,15 @@ function përgjysmo(a, b, funksioni, toleranca) {
     
     console.log(`${fa}, ${fb}`);
 
-    // JO i sigurt nqs kjo duhet
-    // if (fa * fb >= 0) {
-    //     console.log("Metoda e përgjysmimit nuk garanton konvergjencë në këtë interval.");
-    //     return null;
-    // }
-
     let output = document.createElement('div');
     var header = document.createElement("h2");
-    header.textContent = "Sequence of steps";
+    if (fa * fb >= 0) {
+        header.textContent = "Metoda e përgjysmimit nuk garanton konvergjencë në këtë interval. f(a) dhe f(b) kane shenja te njejta.";
+        output.appendChild(header);
+        return output;
+    }
+
+    header.textContent = "Sekuenca e hapave";
     output.appendChild(header);
     let count = 1;
 
@@ -70,7 +70,7 @@ function përgjysmo(a, b, funksioni, toleranca) {
             a = c;
             fa = fc;
         }
-        par.innerHTML = `Step ${count}: ${c}  <br>`;
+        par.innerHTML = `Hapi ${count}: ${c}  <br>`;
         output.appendChild(par);
         count++;
     }
