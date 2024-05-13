@@ -1,11 +1,11 @@
 document.getElementById("actionBtn").addEventListener("click", function(event){
     event.preventDefault();
     let funksioniInput = document.getElementById('funksioni').value;
-    let intervaliInput = document.getElementById('intervali').value.split(',').map(Number);
+    let segmentInput = document.getElementById('segment').value.split(',').map(Number);
     let tolerancaInput = parseFloat(document.getElementById('toleranca').value);
 
     // Përgjysmo funksionin
-    let rezultati = përgjysmo(intervaliInput[0], intervaliInput[1], funksioniInput, tolerancaInput);
+    let rezultati = përgjysmo(segmentInput[0], segmentInput[1], funksioniInput, tolerancaInput);
     
     // Shfaq rezultatin
     var form = document.querySelector(".form");
