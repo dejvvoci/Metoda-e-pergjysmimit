@@ -4,10 +4,10 @@ Ky aplikacion zbaton metoden e pergjysmimit per nje funksion te dhene si input n
 ## Cfare eshte metoda e pergjysmimit?
 Ne matematike, metoda e pergjysmimit eshte nje metode e gjetjes se rrenjeve, qe zbatohet per çdo funksion te vazhdueshem, per te cilin dihen dy vlera me shenja te kunderta. Metoda mbeshtetet ne pergjysmimin e perseritur te segmentit te percaktuar nga keto vlera dhe me pas ne zgjedhjen e nensegmentit ne te cilin funksioni ndryshon shenjen, dhe per kete arsye duhet te permbaje nje rrenje. Eshte nje metode shume e thjeshte dhe e fuqishme, por eshte gjithashtu relativisht e ngadalte. Per shkak te kesaj, shpesh perdoret per te marre nje perafrim te thate me nje zgjidhje e cila me pas perdoret si pikenisje per metodat qe konvergjojne me shpejt.
 
-[!IMPORTANT]
+> [!IMPORTANT]
 Metoda eshte e garantuar te konvergjoje ne nje rrenje te nese nje funksion eshte i vazhdueshem ne intervalin [𝑎,𝑏] dhe 𝑓(𝑎) se bashku me 𝑓(𝑏) kane shenja te kunderta. 
 
-[!TIP]
+> [!TIP]
 Per te perdorur shprehjen e fuqise te nje funksioni, do te perdoret operatori `**` dhe JO operatori `^`. 
 
 ## Funksionet qe suportohen jane:
